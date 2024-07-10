@@ -1,0 +1,2 @@
+// Content of the words.txt file from https://github.com/dwyl/english-words/blob/master/words.txt
+// Note: The actual content is too large to include here, so you'll need to download it separately and place it in the public folder.
